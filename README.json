@@ -1,0 +1,244 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Official Links"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MartinThoma/LaTeX-examples",
+          "description": "Contains about 350 TikZ examples from Martin. Thoma.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2024-10-19T09:23:33Z",
+            "owner": "MartinThoma",
+            "repo": "LaTeX-examples",
+            "stars": 1688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PetarV-/TikZ",
+          "description": "A collection of publication-ready PGF/TikZ figures by Petar Veličković.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2023-05-05T18:14:07Z",
+            "owner": "PetarV-",
+            "repo": "TikZ",
+            "stars": 1416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "walmes/Tikz",
+          "description": "Collection of TikZ art from Prof. Walmes M. Zeviani, contains about 200 TikZ figures, most of which were done to teach statistics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-12-15T14:00:39Z",
+            "owner": "walmes",
+            "repo": "Tikz",
+            "stars": 486
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tikz-network",
+          "description": "A tool to visualize complex networks in LaTeX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2021-01-18T07:19:43Z",
+            "owner": "hackl",
+            "repo": "tikz-network",
+            "stars": 363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenTikZ",
+          "description": "An agent skill, many editable TikZ icons, and many parametric templates for academic diagrams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2026-07-12T02:24:36Z",
+            "owner": "opentikz",
+            "repo": "opentikz",
+            "stars": 245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LatexDiagrams",
+          "description": "This repo contains many diagrams generated for academic usage, including Algorithms-Data Structures, Artificial Intelligence, BlogDiagrams, DSP, Engineering Software Design, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2024-09-03T21:01:08Z",
+            "owner": "FriendlyUser",
+            "repo": "LatexDiagrams",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alemelis/tikz_drawings",
+          "description": "Source codes for illustration made in TikZ by Alessandro Melis for various publications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2018-10-04T21:24:00Z",
+            "owner": "alemelis",
+            "repo": "tikz_drawings",
+            "stars": 58
+          }
+        }
+      ],
+      "title": "Gallery"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PlotNeuralNet",
+          "description": "Latex code for making neural networks diagrams",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2023-08-21T17:47:04Z",
+            "owner": "HarisIqbal88",
+            "repo": "PlotNeuralNet",
+            "stars": 24944
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quiver",
+          "description": "A commutative diagram editor that exports to tikz-cd.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T16:25:04Z",
+            "owner": "varkor",
+            "repo": "quiver",
+            "stars": 3607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "matplotlib2tikz",
+          "description": "Convert matplotlib figure and spits out a TikZ/PGFplots figure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-16T05:00:45Z",
+            "owner": "nschloe",
+            "repo": "tikzplotlib",
+            "stars": 2581
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-latex-drawing",
+          "description": "Drawing Bayesian networks, graphical models, and technical frameworks in LaTeX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2025-05-26T00:13:06Z",
+            "owner": "xinychen",
+            "repo": "awesome-latex-drawing",
+            "stars": 2040
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "matlab2tikz",
+          "description": "Converts MATLAB®/Octave figures to TikZ/pgfplots figures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2026-05-31T18:16:01Z",
+            "owner": "matlab2tikz",
+            "repo": "matlab2tikz",
+            "stars": 1733
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sane_tikz",
+          "description": "Create TikZ figures with Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-18T16:54:58Z",
+            "owner": "negrinho",
+            "repo": "sane_tikz",
+            "stars": 429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ktikz",
+          "description": "Provides a nice user interface for making pictures using TikZ.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-07-28T01:04:53Z",
+            "owner": "fhackenberger",
+            "repo": "ktikz",
+            "stars": 395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "itikz",
+          "description": "Cell and line magic for PGF/TikZ-to-SVG rendering in Jupyter notebooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-18T00:18:38Z",
+            "owner": "jbn",
+            "repo": "itikz",
+            "stars": 63
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "CC-BY-4.0",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:34:49.868Z",
+    "original_repository": "xiaohanyu/awesome-tikz",
+    "original_repository_sha": "8539838ba12a3291f76d84047e804c50134c8254",
+    "enhanced_repository": "enhansome/enhansome-tikz",
+    "enhanced_repository_description": null,
+    "title": "Awesome TikZ with stars"
+  }
+}
