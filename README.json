@@ -33,7 +33,7 @@
             "last_commit": "2023-05-05T18:14:07Z",
             "owner": "PetarV-",
             "repo": "TikZ",
-            "stars": 1416
+            "stars": 1415
           }
         },
         {
@@ -137,7 +137,7 @@
             "last_commit": "2026-08-05T16:25:04Z",
             "owner": "varkor",
             "repo": "quiver",
-            "stars": 3607
+            "stars": 3608
           }
         },
         {
@@ -179,7 +179,7 @@
             "last_commit": "2026-05-31T18:16:01Z",
             "owner": "matlab2tikz",
             "repo": "matlab2tikz",
-            "stars": 1733
+            "stars": 1734
           }
         },
         {
@@ -234,7 +234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:34:49.868Z",
+    "last_updated": "2026-08-14T00:05:54.382Z",
     "original_repository": "xiaohanyu/awesome-tikz",
     "original_repository_sha": "8539838ba12a3291f76d84047e804c50134c8254",
     "enhanced_repository": "enhansome/enhansome-tikz",
