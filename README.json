@@ -19,7 +19,7 @@
             "last_commit": "2024-10-19T09:23:33Z",
             "owner": "MartinThoma",
             "repo": "LaTeX-examples",
-            "stars": 1688
+            "stars": 1689
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-12T02:24:36Z",
             "owner": "opentikz",
             "repo": "opentikz",
-            "stars": 247
+            "stars": 244
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2023-08-21T17:47:04Z",
             "owner": "HarisIqbal88",
             "repo": "PlotNeuralNet",
-            "stars": 24948
+            "stars": 24949
           }
         },
         {
@@ -179,7 +179,7 @@
             "last_commit": "2026-05-31T18:16:01Z",
             "owner": "matlab2tikz",
             "repo": "matlab2tikz",
-            "stars": 1737
+            "stars": 1738
           }
         },
         {
@@ -234,7 +234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T23:42:28.648Z",
+    "last_updated": "2026-08-16T23:41:55.048Z",
     "original_repository": "xiaohanyu/awesome-tikz",
     "original_repository_sha": "8539838ba12a3291f76d84047e804c50134c8254",
     "enhanced_repository": "enhansome/enhansome-tikz",
