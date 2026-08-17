@@ -47,7 +47,7 @@
             "last_commit": "2025-12-15T14:00:39Z",
             "owner": "walmes",
             "repo": "Tikz",
-            "stars": 486
+            "stars": 487
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2023-08-21T17:47:04Z",
             "owner": "HarisIqbal88",
             "repo": "PlotNeuralNet",
-            "stars": 24949
+            "stars": 24951
           }
         },
         {
@@ -137,7 +137,7 @@
             "last_commit": "2026-08-05T16:25:04Z",
             "owner": "varkor",
             "repo": "quiver",
-            "stars": 3608
+            "stars": 3609
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2020-11-18T16:54:58Z",
             "owner": "negrinho",
             "repo": "sane_tikz",
-            "stars": 429
+            "stars": 428
           }
         },
         {
@@ -234,7 +234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T23:41:55.048Z",
+    "last_updated": "2026-08-17T23:44:14.435Z",
     "original_repository": "xiaohanyu/awesome-tikz",
     "original_repository_sha": "8539838ba12a3291f76d84047e804c50134c8254",
     "enhanced_repository": "enhansome/enhansome-tikz",
