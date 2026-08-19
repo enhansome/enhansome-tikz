@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Official Links"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5351405,
             "language": "TeX",
             "last_commit": "2024-10-19T09:23:33Z",
             "owner": "MartinThoma",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63618921,
             "language": "TeX",
             "last_commit": "2023-05-05T18:14:07Z",
             "owner": "PetarV-",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48773871,
             "language": "R",
             "last_commit": "2025-12-15T14:00:39Z",
             "owner": "walmes",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102249706,
             "language": "TeX",
             "last_commit": "2021-01-18T07:19:43Z",
             "owner": "hackl",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1261717201,
             "language": "TeX",
             "last_commit": "2026-07-12T02:24:36Z",
             "owner": "opentikz",
@@ -85,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 184919874,
             "language": "TeX",
             "last_commit": "2024-09-03T21:01:08Z",
             "owner": "FriendlyUser",
@@ -99,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58069663,
             "language": "TeX",
             "last_commit": "2018-10-04T21:24:00Z",
             "owner": "alemelis",
@@ -110,7 +112,7 @@
       "title": "Gallery"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -119,11 +121,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 142187665,
             "language": "TeX",
             "last_commit": "2023-08-21T17:47:04Z",
             "owner": "HarisIqbal88",
             "repo": "PlotNeuralNet",
-            "stars": 24950
+            "stars": 24951
           }
         },
         {
@@ -133,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163348528,
             "language": "JavaScript",
             "last_commit": "2026-08-05T16:25:04Z",
             "owner": "varkor",
@@ -147,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 472623,
             "language": "Python",
             "last_commit": "2024-08-16T05:00:45Z",
             "owner": "nschloe",
@@ -161,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165196316,
             "language": "TeX",
             "last_commit": "2025-05-26T00:13:06Z",
             "owner": "xinychen",
@@ -175,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 579842,
             "language": "MATLAB",
             "last_commit": "2026-05-31T18:16:01Z",
             "owner": "matlab2tikz",
@@ -189,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 205777330,
             "language": "Python",
             "last_commit": "2020-11-18T16:54:58Z",
             "owner": "negrinho",
@@ -203,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41868145,
             "language": "C++",
             "last_commit": "2025-07-28T01:04:53Z",
             "owner": "fhackenberger",
@@ -217,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 152804538,
             "language": "Jupyter Notebook",
             "last_commit": "2024-04-18T00:18:38Z",
             "owner": "jbn",
@@ -226,16 +236,12 @@
         }
       ],
       "title": "Tools"
-    },
-    {
-      "description": "CC-BY-4.0",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:44:23.853Z",
+    "last_updated": "2026-08-19T12:55:55.644Z",
     "original_repository": "xiaohanyu/awesome-tikz",
+    "original_repository_id": 81643361,
     "original_repository_sha": "8539838ba12a3291f76d84047e804c50134c8254",
     "enhanced_repository": "enhansome/enhansome-tikz",
     "enhanced_repository_description": null,
