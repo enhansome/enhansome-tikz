@@ -44,7 +44,7 @@ This project contains a curated list of awesome TikZ documentations, libraries a
 * [PetarV-/TikZ](https://github.com/PetarV-/TikZ) ⭐ 1,416 | 🐛 1 | 🌐 TeX | 📅 2023-05-05 - A collection of publication-ready PGF/TikZ figures by Petar Veličković.
 * [walmes/Tikz](https://github.com/walmes/Tikz) ⭐ 488 | 🐛 0 | 🌐 R | 📅 2025-12-15 - Collection of TikZ art from Prof. Walmes M. Zeviani, contains about 200 TikZ figures, most of which were done to teach statistics.
 * [tikz-network](https://github.com/hackl/tikz-network) ⭐ 363 | 🐛 19 | 🌐 TeX | 📅 2021-01-18 - A tool to visualize complex networks in LaTeX.
-* [OpenTikZ](https://github.com/opentikz/opentikz) ⭐ 248 | 🐛 0 | 🌐 TeX | 📅 2026-07-12 - An agent skill, many editable TikZ icons, and many parametric templates for academic diagrams.
+* [OpenTikZ](https://github.com/opentikz/opentikz) ⭐ 249 | 🐛 0 | 🌐 TeX | 📅 2026-07-12 - An agent skill, many editable TikZ icons, and many parametric templates for academic diagrams.
 * [LatexDiagrams](https://github.com/FriendlyUser/LatexDiagrams) ⭐ 209 | 🐛 7 | 🌐 TeX | 📅 2024-09-03 - This repo contains many diagrams generated for academic usage, including Algorithms-Data Structures, Artificial Intelligence, BlogDiagrams, DSP, Engineering Software Design, etc.
 * [alemelis/tikz\_drawings](https://github.com/alemelis/tikz_drawings) ⭐ 58 | 🐛 0 | 🌐 TeX | 📅 2018-10-04 - Source codes for illustration made in TikZ by Alessandro Melis for various publications.
 * [TeXample](http://www.texample.net/tikz/) - Gallery of wonderful examples made by TikZ.
@@ -161,4 +161,4 @@ CC-BY-4.0
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
