@@ -75,7 +75,7 @@
             "last_commit": "2026-07-12T02:24:36Z",
             "owner": "opentikz",
             "repo": "opentikz",
-            "stars": 252
+            "stars": 254
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2023-08-21T17:47:04Z",
             "owner": "HarisIqbal88",
             "repo": "PlotNeuralNet",
-            "stars": 24955
+            "stars": 24956
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-24T18:10:10Z",
             "owner": "varkor",
             "repo": "quiver",
-            "stars": 3610
+            "stars": 3611
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2025-05-26T00:13:06Z",
             "owner": "xinychen",
             "repo": "awesome-latex-drawing",
-            "stars": 2046
+            "stars": 2047
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-05-31T18:16:01Z",
             "owner": "matlab2tikz",
             "repo": "matlab2tikz",
-            "stars": 1739
+            "stars": 1740
           }
         },
         {
@@ -239,9 +239,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:36:10.896Z",
-    "original_repository": "xiaohanyu/awesome-tikz",
-    "original_repository_id": 81643361,
+    "last_updated": "2026-08-27T12:07:24.789Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 81643361,
+      "language": null,
+      "last_commit": "2026-07-14T00:03:25Z",
+      "owner": "xiaohanyu",
+      "repo": "awesome-tikz",
+      "stars": 1800
+    },
     "original_repository_sha": "8539838ba12a3291f76d84047e804c50134c8254",
     "enhanced_repository": "enhansome/enhansome-tikz",
     "enhanced_repository_description": null,
