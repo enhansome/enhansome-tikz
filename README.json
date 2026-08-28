@@ -16,7 +16,8 @@
             "owner": "MartinThoma",
             "repo": "LaTeX-examples",
             "stars": 1690
-          }
+          },
+          "first_seen": "2026-08-28T06:59:05.764Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "PetarV-",
             "repo": "TikZ",
             "stars": 1416
-          }
+          },
+          "first_seen": "2026-08-28T06:59:05.764Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "walmes",
             "repo": "Tikz",
             "stars": 488
-          }
+          },
+          "first_seen": "2026-08-28T06:59:05.764Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "hackl",
             "repo": "tikz-network",
             "stars": 363
-          }
+          },
+          "first_seen": "2026-08-28T06:59:05.764Z"
         },
         {
           "node_type": "item",
@@ -75,8 +79,9 @@
             "last_commit": "2026-07-12T02:24:36Z",
             "owner": "opentikz",
             "repo": "opentikz",
-            "stars": 254
-          }
+            "stars": 256
+          },
+          "first_seen": "2026-08-28T06:59:05.764Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "FriendlyUser",
             "repo": "LatexDiagrams",
             "stars": 209
-          }
+          },
+          "first_seen": "2026-08-28T06:59:05.764Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "alemelis",
             "repo": "tikz_drawings",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T06:59:05.764Z"
         }
       ],
       "title": "Gallery"
@@ -126,8 +133,9 @@
             "last_commit": "2023-08-21T17:47:04Z",
             "owner": "HarisIqbal88",
             "repo": "PlotNeuralNet",
-            "stars": 24956
-          }
+            "stars": 24957
+          },
+          "first_seen": "2026-08-28T06:59:05.764Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "varkor",
             "repo": "quiver",
             "stars": 3611
-          }
+          },
+          "first_seen": "2026-08-28T06:59:05.764Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "nschloe",
             "repo": "tikzplotlib",
             "stars": 2580
-          }
+          },
+          "first_seen": "2026-08-28T06:59:05.764Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "xinychen",
             "repo": "awesome-latex-drawing",
             "stars": 2047
-          }
+          },
+          "first_seen": "2026-08-28T06:59:05.764Z"
         },
         {
           "node_type": "item",
@@ -186,8 +197,9 @@
             "last_commit": "2026-05-31T18:16:01Z",
             "owner": "matlab2tikz",
             "repo": "matlab2tikz",
-            "stars": 1740
-          }
+            "stars": 1741
+          },
+          "first_seen": "2026-08-28T06:59:05.764Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "negrinho",
             "repo": "sane_tikz",
             "stars": 428
-          }
+          },
+          "first_seen": "2026-08-28T06:59:05.764Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "fhackenberger",
             "repo": "ktikz",
             "stars": 397
-          }
+          },
+          "first_seen": "2026-08-28T06:59:05.764Z"
         },
         {
           "node_type": "item",
@@ -232,14 +246,15 @@
             "owner": "jbn",
             "repo": "itikz",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T06:59:05.764Z"
         }
       ],
       "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:07:24.789Z",
+    "last_updated": "2026-08-28T06:59:05.764Z",
     "original_repository_info": {
       "archived": false,
       "id": 81643361,
