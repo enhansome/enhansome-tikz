@@ -22,7 +22,7 @@ This project contains a curated list of awesome TikZ documentations, libraries a
 
 ### PGF/TikZ
 
-* [SourceForge](https://github.com/pgf-tikz/pgf) ⭐ 1,345 | 🐛 288 | 🌐 TeX | 📅 2026-08-26 - Code, releases, support and bug reports.
+* [SourceForge](https://github.com/pgf-tikz/pgf) ⭐ 1,345 | 🐛 288 | 🌐 TeX | 📅 2026-08-28 - Code, releases, support and bug reports.
 * [CTAN](https://www.ctan.org/pkg/pgf) - Latest version release.
 
 ### PGFPlots
@@ -56,9 +56,9 @@ This project contains a curated list of awesome TikZ documentations, libraries a
 
 * [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) ⭐ 24,957 | 🐛 89 | 🌐 TeX | 📅 2023-08-21 - Latex code for making neural networks diagrams
 * [quiver](https://github.com/varkor/quiver) ⭐ 3,611 | 🐛 46 | 🌐 JavaScript | 📅 2026-08-24 - A commutative diagram editor that exports to tikz-cd.
-* [matplotlib2tikz](https://github.com/nschloe/matplotlib2tikz) ⭐ 2,580 | 🐛 137 | 🌐 Python | 📅 2024-08-16 - Convert matplotlib figure and spits out a TikZ/PGFplots figure.
+* [matplotlib2tikz](https://github.com/nschloe/matplotlib2tikz) ⭐ 2,581 | 🐛 137 | 🌐 Python | 📅 2024-08-16 - Convert matplotlib figure and spits out a TikZ/PGFplots figure.
 * [awesome-latex-drawing](https://github.com/xinychen/awesome-latex-drawing) ⭐ 2,047 | 🐛 1 | 🌐 TeX | 📅 2025-05-26 - Drawing Bayesian networks, graphical models, and technical frameworks in LaTeX.
-* [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) ⭐ 1,741 | 🐛 264 | 🌐 MATLAB | 📅 2026-05-31 - Converts MATLAB®/Octave figures to TikZ/pgfplots figures.
+* [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) ⭐ 1,744 | 🐛 264 | 🌐 MATLAB | 📅 2026-05-31 - Converts MATLAB®/Octave figures to TikZ/pgfplots figures.
 * [sane\_tikz](https://github.com/negrinho/sane_tikz) ⭐ 428 | 🐛 0 | 🌐 Python | 📅 2020-11-18 - Create TikZ figures with Python.
 * [ktikz](https://github.com/fhackenberger/ktikz) ⭐ 397 | 🐛 15 | 🌐 C++ | 📅 2025-07-28 - Provides a nice user interface for making pictures using TikZ.
 * [itikz](https://github.com/jbn/itikz) ⭐ 63 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2024-04-18 - Cell and line magic for PGF/TikZ-to-SVG rendering in Jupyter notebooks.
@@ -161,4 +161,4 @@ CC-BY-4.0
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

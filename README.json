@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Examples for the usage of LaTeX",
+            "homepage": null,
             "id": 5351405,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2024-10-19T09:23:33Z",
+            "open_issues": 5,
             "owner": "MartinThoma",
             "repo": "LaTeX-examples",
-            "stars": 1690
+            "stars": 1690,
+            "topics": [
+              "latex",
+              "mathematics",
+              "research",
+              "science",
+              "tex",
+              "tikz"
+            ]
           },
           "first_seen": "2026-08-28T06:59:05.764Z"
         },
@@ -26,12 +38,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Complete collection of my PGF/TikZ figures.",
+            "homepage": null,
             "id": 63618921,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2023-05-05T18:14:07Z",
+            "open_issues": 1,
             "owner": "PetarV-",
             "repo": "TikZ",
-            "stars": 1416
+            "stars": 1416,
+            "topics": [
+              "graphics",
+              "latex",
+              "pgf",
+              "tikz",
+              "tikz-figures"
+            ]
           },
           "first_seen": "2026-08-28T06:59:05.764Z"
         },
@@ -42,12 +65,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Galley of Tikz drawings.",
+            "homepage": "http://leg.ufpr.br/~walmes/Tikz/",
             "id": 48773871,
             "language": "R",
+            "license": null,
             "last_commit": "2025-12-15T14:00:39Z",
+            "open_issues": 0,
             "owner": "walmes",
             "repo": "Tikz",
-            "stars": 488
+            "stars": 488,
+            "topics": [
+              "gallery",
+              "latex",
+              "pgf",
+              "tikz"
+            ]
           },
           "first_seen": "2026-08-28T06:59:05.764Z"
         },
@@ -58,12 +91,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to visualize complex networks in LaTeX",
+            "homepage": null,
             "id": 102249706,
             "language": "TeX",
+            "license": "GPL-3.0",
             "last_commit": "2021-01-18T07:19:43Z",
+            "open_issues": 19,
             "owner": "hackl",
             "repo": "tikz-network",
-            "stars": 363
+            "stars": 363,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:59:05.764Z"
         },
@@ -74,12 +112,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TikZ for paper diagrams, without hand-writing TikZ — copyable icons, editable templates, and a Claude Code skill",
+            "homepage": "https://opentikz.org/",
             "id": 1261717201,
             "language": "TeX",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-12T02:24:36Z",
+            "open_issues": 0,
             "owner": "opentikz",
             "repo": "opentikz",
-            "stars": 256
+            "stars": 256,
+            "topics": [
+              "agents",
+              "ai",
+              "latex",
+              "papers",
+              "skill-md",
+              "skills",
+              "tikz",
+              "tikz-figures",
+              "tikz-library"
+            ]
           },
           "first_seen": "2026-08-28T06:59:05.764Z"
         },
@@ -90,12 +143,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Latex Diagrams that I have generated/taken from internet.",
+            "homepage": "http://grandfleet.eu.org/",
             "id": 184919874,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2024-09-03T21:01:08Z",
+            "open_issues": 7,
             "owner": "FriendlyUser",
             "repo": "LatexDiagrams",
-            "stars": 209
+            "stars": 209,
+            "topics": [
+              "diagrams",
+              "latex",
+              "tex"
+            ]
           },
           "first_seen": "2026-08-28T06:59:05.764Z"
         },
@@ -106,12 +168,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "drawings",
+            "homepage": null,
             "id": 58069663,
             "language": "TeX",
+            "license": null,
             "last_commit": "2018-10-04T21:24:00Z",
+            "open_issues": 0,
             "owner": "alemelis",
             "repo": "tikz_drawings",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "latex",
+              "tikz"
+            ]
           },
           "first_seen": "2026-08-28T06:59:05.764Z"
         }
@@ -128,12 +198,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Latex code for making neural networks diagrams",
+            "homepage": null,
             "id": 142187665,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2023-08-21T17:47:04Z",
+            "open_issues": 89,
             "owner": "HarisIqbal88",
             "repo": "PlotNeuralNet",
-            "stars": 24957
+            "stars": 24957,
+            "topics": [
+              "deep-neural-networks",
+              "latex"
+            ]
           },
           "first_seen": "2026-08-28T06:59:05.764Z"
         },
@@ -144,12 +222,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern commutative diagram editor for the web.",
+            "homepage": "https://q.uiver.app",
             "id": 163348528,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T18:10:10Z",
+            "open_issues": 46,
             "owner": "varkor",
             "repo": "quiver",
-            "stars": 3611
+            "stars": 3611,
+            "topics": [
+              "category-theory",
+              "commutative",
+              "commutative-diagrams",
+              "diagram",
+              "editor",
+              "fletcher",
+              "latex",
+              "pasting-diagrams",
+              "tikz",
+              "tikz-cd",
+              "tikzcd",
+              "typst"
+            ]
           },
           "first_seen": "2026-08-28T06:59:05.764Z"
         },
@@ -160,12 +256,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":bar_chart: Save matplotlib figures as TikZ/PGFplots for smooth integration into LaTeX.",
+            "homepage": null,
             "id": 472623,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-16T05:00:45Z",
+            "open_issues": 137,
             "owner": "nschloe",
             "repo": "tikzplotlib",
-            "stars": 2580
+            "stars": 2581,
+            "topics": [
+              "latex",
+              "matplotlib",
+              "pgfplots",
+              "python",
+              "tikz"
+            ]
           },
           "first_seen": "2026-08-28T06:59:05.764Z"
         },
@@ -176,12 +283,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Drawing Bayesian networks, graphical models, tensors, technical frameworks, and illustrations in LaTeX.",
+            "homepage": "https://spatiotemporal-data.github.io/awesome-latex-drawing/",
             "id": 165196316,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2025-05-26T00:13:06Z",
+            "open_issues": 1,
             "owner": "xinychen",
             "repo": "awesome-latex-drawing",
-            "stars": 2047
+            "stars": 2047,
+            "topics": [
+              "latex",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T06:59:05.764Z"
         },
@@ -192,12 +307,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This program converts MATLAB®/Octave figures to TikZ/pgfplots figures for smooth integration into LaTeX.",
+            "homepage": "http://www.mathworks.com/matlabcentral/fileexchange/22022-matlab2tikz",
             "id": 579842,
             "language": "MATLAB",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-05-31T18:16:01Z",
+            "open_issues": 264,
             "owner": "matlab2tikz",
             "repo": "matlab2tikz",
-            "stars": 1741
+            "stars": 1744,
+            "topics": [
+              "latex",
+              "matlab",
+              "matlab2tikz",
+              "octave",
+              "pgfplots",
+              "tikz"
+            ]
           },
           "first_seen": "2026-08-28T06:59:05.764Z"
         },
@@ -208,12 +335,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reconquer the canvas: beautiful Tikz figures without clunky Tikz code",
+            "homepage": null,
             "id": 205777330,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-11-18T16:54:58Z",
+            "open_issues": 0,
             "owner": "negrinho",
             "repo": "sane_tikz",
-            "stars": 428
+            "stars": 428,
+            "topics": [
+              "diagrams",
+              "latex",
+              "scientific-visualization",
+              "tikz",
+              "tikz-figures",
+              "tikz-images",
+              "tikz-library",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T06:59:05.764Z"
         },
@@ -224,12 +365,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KtikZ provides a nice user interface for making pictures using TikZ.",
+            "homepage": null,
             "id": 41868145,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2025-07-28T01:04:53Z",
+            "open_issues": 15,
             "owner": "fhackenberger",
             "repo": "ktikz",
-            "stars": 397
+            "stars": 397,
+            "topics": [
+              "figures",
+              "graphics",
+              "latex",
+              "pgf",
+              "plots",
+              "tikz"
+            ]
           },
           "first_seen": "2026-08-28T06:59:05.764Z"
         },
@@ -240,12 +393,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cell and line magic for PGF/TikZ-to-SVG rendering in Jupyter notebooks",
+            "homepage": null,
             "id": 152804538,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-04-18T00:18:38Z",
+            "open_issues": 13,
             "owner": "jbn",
             "repo": "itikz",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "ipython-magic",
+              "ipython-notebook",
+              "jupyter",
+              "jupyter-notebook",
+              "latex",
+              "tikz",
+              "tikz-figures"
+            ]
           },
           "first_seen": "2026-08-28T06:59:05.764Z"
         }
@@ -254,15 +420,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:59:05.764Z",
+    "last_updated": "2026-08-29T04:23:48.416Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome TikZ documentations, libraries and resources",
+      "homepage": null,
       "id": 81643361,
       "language": null,
+      "license": null,
       "last_commit": "2026-07-14T00:03:25Z",
+      "open_issues": 0,
       "owner": "xiaohanyu",
       "repo": "awesome-tikz",
-      "stars": 1800
+      "stars": 1799,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "latex",
+        "tex",
+        "tikz"
+      ]
     },
     "original_repository_sha": "8539838ba12a3291f76d84047e804c50134c8254",
     "enhanced_repository": "enhansome/enhansome-tikz",
