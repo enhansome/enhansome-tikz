@@ -121,7 +121,7 @@
             "open_issues": 0,
             "owner": "opentikz",
             "repo": "opentikz",
-            "stars": 257,
+            "stars": 243,
             "topics": [
               "agents",
               "ai",
@@ -207,7 +207,7 @@
             "open_issues": 89,
             "owner": "HarisIqbal88",
             "repo": "PlotNeuralNet",
-            "stars": 24961,
+            "stars": 24964,
             "topics": [
               "deep-neural-networks",
               "latex"
@@ -227,11 +227,11 @@
             "id": 163348528,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-24T18:10:10Z",
+            "last_commit": "2026-09-01T09:51:01Z",
             "open_issues": 46,
             "owner": "varkor",
             "repo": "quiver",
-            "stars": 3611,
+            "stars": 3613,
             "topics": [
               "category-theory",
               "commutative",
@@ -292,7 +292,7 @@
             "open_issues": 1,
             "owner": "xinychen",
             "repo": "awesome-latex-drawing",
-            "stars": 2047,
+            "stars": 2049,
             "topics": [
               "latex",
               "machine-learning"
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T01:55:54.727Z",
+    "last_updated": "2026-09-02T01:10:56.832Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TikZ documentations, libraries and resources",
