@@ -121,7 +121,7 @@
             "open_issues": 0,
             "owner": "opentikz",
             "repo": "opentikz",
-            "stars": 243,
+            "stars": 244,
             "topics": [
               "agents",
               "ai",
@@ -231,7 +231,7 @@
             "open_issues": 46,
             "owner": "varkor",
             "repo": "quiver",
-            "stars": 3613,
+            "stars": 3614,
             "topics": [
               "category-theory",
               "commutative",
@@ -374,7 +374,7 @@
             "open_issues": 15,
             "owner": "fhackenberger",
             "repo": "ktikz",
-            "stars": 397,
+            "stars": 398,
             "topics": [
               "figures",
               "graphics",
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T01:10:56.832Z",
+    "last_updated": "2026-09-03T01:15:56.866Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TikZ documentations, libraries and resources",
@@ -432,7 +432,7 @@
       "open_issues": 0,
       "owner": "xiaohanyu",
       "repo": "awesome-tikz",
-      "stars": 1800,
+      "stars": 1801,
       "topics": [
         "awesome",
         "awesome-list",
