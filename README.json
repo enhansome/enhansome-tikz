@@ -47,7 +47,7 @@
             "open_issues": 1,
             "owner": "PetarV-",
             "repo": "TikZ",
-            "stars": 1418,
+            "stars": 1417,
             "topics": [
               "graphics",
               "latex",
@@ -100,7 +100,7 @@
             "open_issues": 19,
             "owner": "hackl",
             "repo": "tikz-network",
-            "stars": 363,
+            "stars": 364,
             "topics": []
           },
           "first_seen": "2026-08-28T06:59:05.764Z"
@@ -121,7 +121,7 @@
             "open_issues": 0,
             "owner": "opentikz",
             "repo": "opentikz",
-            "stars": 244,
+            "stars": 245,
             "topics": [
               "agents",
               "ai",
@@ -152,7 +152,7 @@
             "open_issues": 7,
             "owner": "FriendlyUser",
             "repo": "LatexDiagrams",
-            "stars": 209,
+            "stars": 208,
             "topics": [
               "diagrams",
               "latex",
@@ -207,7 +207,7 @@
             "open_issues": 89,
             "owner": "HarisIqbal88",
             "repo": "PlotNeuralNet",
-            "stars": 24964,
+            "stars": 24966,
             "topics": [
               "deep-neural-networks",
               "latex"
@@ -292,7 +292,7 @@
             "open_issues": 1,
             "owner": "xinychen",
             "repo": "awesome-latex-drawing",
-            "stars": 2049,
+            "stars": 2051,
             "topics": [
               "latex",
               "machine-learning"
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T01:15:56.866Z",
+    "last_updated": "2026-09-04T01:07:24.507Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TikZ documentations, libraries and resources",
@@ -432,7 +432,7 @@
       "open_issues": 0,
       "owner": "xiaohanyu",
       "repo": "awesome-tikz",
-      "stars": 1801,
+      "stars": 1800,
       "topics": [
         "awesome",
         "awesome-list",
