@@ -15,7 +15,7 @@
             "id": 5351405,
             "language": "TeX",
             "license": "MIT",
-            "last_commit": "2024-10-19T09:23:33Z",
+            "last_commit": "2026-09-04T21:40:00Z",
             "open_issues": 5,
             "owner": "MartinThoma",
             "repo": "LaTeX-examples",
@@ -231,7 +231,7 @@
             "open_issues": 46,
             "owner": "varkor",
             "repo": "quiver",
-            "stars": 3614,
+            "stars": 3615,
             "topics": [
               "category-theory",
               "commutative",
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T01:07:24.507Z",
+    "last_updated": "2026-09-05T01:11:30.191Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TikZ documentations, libraries and resources",
