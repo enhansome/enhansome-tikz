@@ -121,7 +121,7 @@
             "open_issues": 0,
             "owner": "opentikz",
             "repo": "opentikz",
-            "stars": 247,
+            "stars": 248,
             "topics": [
               "agents",
               "ai",
@@ -152,7 +152,7 @@
             "open_issues": 7,
             "owner": "FriendlyUser",
             "repo": "LatexDiagrams",
-            "stars": 208,
+            "stars": 209,
             "topics": [
               "diagrams",
               "latex",
@@ -177,7 +177,7 @@
             "open_issues": 0,
             "owner": "alemelis",
             "repo": "tikz_drawings",
-            "stars": 58,
+            "stars": 59,
             "topics": [
               "latex",
               "tikz"
@@ -231,7 +231,7 @@
             "open_issues": 46,
             "owner": "varkor",
             "repo": "quiver",
-            "stars": 3617,
+            "stars": 3618,
             "topics": [
               "category-theory",
               "commutative",
@@ -316,7 +316,7 @@
             "open_issues": 264,
             "owner": "matlab2tikz",
             "repo": "matlab2tikz",
-            "stars": 1746,
+            "stars": 1749,
             "topics": [
               "latex",
               "matlab",
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T01:16:08.100Z",
+    "last_updated": "2026-09-09T01:20:45.623Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TikZ documentations, libraries and resources",
