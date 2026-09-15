@@ -74,7 +74,7 @@
             "open_issues": 0,
             "owner": "walmes",
             "repo": "Tikz",
-            "stars": 488,
+            "stars": 489,
             "topics": [
               "gallery",
               "latex",
@@ -231,7 +231,7 @@
             "open_issues": 46,
             "owner": "varkor",
             "repo": "quiver",
-            "stars": 3618,
+            "stars": 3617,
             "topics": [
               "category-theory",
               "commutative",
@@ -316,7 +316,7 @@
             "open_issues": 264,
             "owner": "matlab2tikz",
             "repo": "matlab2tikz",
-            "stars": 1754,
+            "stars": 1755,
             "topics": [
               "latex",
               "matlab",
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T01:18:26.042Z",
+    "last_updated": "2026-09-15T01:38:22.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TikZ documentations, libraries and resources",
@@ -432,7 +432,7 @@
       "open_issues": 0,
       "owner": "xiaohanyu",
       "repo": "awesome-tikz",
-      "stars": 1804,
+      "stars": 1805,
       "topics": [
         "awesome",
         "awesome-list",
