@@ -100,7 +100,7 @@
             "open_issues": 19,
             "owner": "hackl",
             "repo": "tikz-network",
-            "stars": 363,
+            "stars": 364,
             "topics": []
           },
           "first_seen": "2026-08-28T06:59:05.764Z"
@@ -207,7 +207,7 @@
             "open_issues": 89,
             "owner": "HarisIqbal88",
             "repo": "PlotNeuralNet",
-            "stars": 24980,
+            "stars": 24983,
             "topics": [
               "deep-neural-networks",
               "latex"
@@ -262,7 +262,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2024-08-16T05:00:45Z",
-            "open_issues": 137,
+            "open_issues": 136,
             "owner": "nschloe",
             "repo": "tikzplotlib",
             "stars": 2580,
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T01:20:58.121Z",
+    "last_updated": "2026-09-20T01:20:21.616Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TikZ documentations, libraries and resources",
@@ -432,7 +432,7 @@
       "open_issues": 0,
       "owner": "xiaohanyu",
       "repo": "awesome-tikz",
-      "stars": 1807,
+      "stars": 1808,
       "topics": [
         "awesome",
         "awesome-list",
