@@ -71,7 +71,7 @@
             "language": "R",
             "license": null,
             "last_commit": "2025-12-15T14:00:39Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "walmes",
             "repo": "Tikz",
             "stars": 489,
@@ -121,7 +121,7 @@
             "open_issues": 0,
             "owner": "opentikz",
             "repo": "opentikz",
-            "stars": 255,
+            "stars": 256,
             "topics": [
               "agents",
               "ai",
@@ -207,7 +207,7 @@
             "open_issues": 89,
             "owner": "HarisIqbal88",
             "repo": "PlotNeuralNet",
-            "stars": 24993,
+            "stars": 24995,
             "topics": [
               "deep-neural-networks",
               "latex"
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T01:46:02.250Z",
+    "last_updated": "2026-09-27T01:37:26.855Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TikZ documentations, libraries and resources",
