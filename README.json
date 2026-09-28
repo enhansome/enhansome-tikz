@@ -47,7 +47,7 @@
             "open_issues": 1,
             "owner": "PetarV-",
             "repo": "TikZ",
-            "stars": 1420,
+            "stars": 1421,
             "topics": [
               "graphics",
               "latex",
@@ -74,7 +74,7 @@
             "open_issues": 0,
             "owner": "walmes",
             "repo": "Tikz",
-            "stars": 489,
+            "stars": 490,
             "topics": [
               "gallery",
               "latex",
@@ -121,7 +121,7 @@
             "open_issues": 0,
             "owner": "opentikz",
             "repo": "opentikz",
-            "stars": 256,
+            "stars": 257,
             "topics": [
               "agents",
               "ai",
@@ -207,7 +207,7 @@
             "open_issues": 89,
             "owner": "HarisIqbal88",
             "repo": "PlotNeuralNet",
-            "stars": 24995,
+            "stars": 24997,
             "topics": [
               "deep-neural-networks",
               "latex"
@@ -228,7 +228,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-01T09:51:01Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "varkor",
             "repo": "quiver",
             "stars": 3624,
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T01:37:26.855Z",
+    "last_updated": "2026-09-28T01:48:48.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TikZ documentations, libraries and resources",
@@ -432,7 +432,7 @@
       "open_issues": 0,
       "owner": "xiaohanyu",
       "repo": "awesome-tikz",
-      "stars": 1810,
+      "stars": 1811,
       "topics": [
         "awesome",
         "awesome-list",
