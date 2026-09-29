@@ -15,7 +15,7 @@
             "id": 5351405,
             "language": "TeX",
             "license": "MIT",
-            "last_commit": "2026-09-04T21:40:00Z",
+            "last_commit": "2026-09-28T08:23:49Z",
             "open_issues": 5,
             "owner": "MartinThoma",
             "repo": "LaTeX-examples",
@@ -207,7 +207,7 @@
             "open_issues": 89,
             "owner": "HarisIqbal88",
             "repo": "PlotNeuralNet",
-            "stars": 24997,
+            "stars": 24999,
             "topics": [
               "deep-neural-networks",
               "latex"
@@ -227,11 +227,11 @@
             "id": 163348528,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-01T09:51:01Z",
-            "open_issues": 48,
+            "last_commit": "2026-09-28T22:56:12Z",
+            "open_issues": 49,
             "owner": "varkor",
             "repo": "quiver",
-            "stars": 3624,
+            "stars": 3626,
             "topics": [
               "category-theory",
               "commutative",
@@ -316,7 +316,7 @@
             "open_issues": 264,
             "owner": "matlab2tikz",
             "repo": "matlab2tikz",
-            "stars": 1757,
+            "stars": 1758,
             "topics": [
               "latex",
               "matlab",
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T01:48:48.727Z",
+    "last_updated": "2026-09-29T02:37:47.249Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TikZ documentations, libraries and resources",
