@@ -207,7 +207,7 @@
             "open_issues": 89,
             "owner": "HarisIqbal88",
             "repo": "PlotNeuralNet",
-            "stars": 24999,
+            "stars": 24998,
             "topics": [
               "deep-neural-networks",
               "latex"
@@ -265,7 +265,7 @@
             "open_issues": 136,
             "owner": "nschloe",
             "repo": "tikzplotlib",
-            "stars": 2582,
+            "stars": 2583,
             "topics": [
               "latex",
               "matplotlib",
@@ -316,7 +316,7 @@
             "open_issues": 264,
             "owner": "matlab2tikz",
             "repo": "matlab2tikz",
-            "stars": 1758,
+            "stars": 1759,
             "topics": [
               "latex",
               "matlab",
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T02:37:47.249Z",
+    "last_updated": "2026-09-30T02:13:45.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TikZ documentations, libraries and resources",
@@ -432,7 +432,7 @@
       "open_issues": 0,
       "owner": "xiaohanyu",
       "repo": "awesome-tikz",
-      "stars": 1811,
+      "stars": 1810,
       "topics": [
         "awesome",
         "awesome-list",

@@ -54,11 +54,11 @@ This project contains a curated list of awesome TikZ documentations, libraries a
 
 ## Tools
 
-* [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) ⭐ 24,999 | 🐛 89 | 🌐 TeX | 📅 2023-08-21 - Latex code for making neural networks diagrams
+* [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) ⭐ 24,998 | 🐛 89 | 🌐 TeX | 📅 2023-08-21 - Latex code for making neural networks diagrams
 * [quiver](https://github.com/varkor/quiver) ⭐ 3,626 | 🐛 49 | 🌐 JavaScript | 📅 2026-09-28 - A commutative diagram editor that exports to tikz-cd.
-* [matplotlib2tikz](https://github.com/nschloe/matplotlib2tikz) ⭐ 2,582 | 🐛 136 | 🌐 Python | 📅 2024-08-16 - Convert matplotlib figure and spits out a TikZ/PGFplots figure.
+* [matplotlib2tikz](https://github.com/nschloe/matplotlib2tikz) ⭐ 2,583 | 🐛 136 | 🌐 Python | 📅 2024-08-16 - Convert matplotlib figure and spits out a TikZ/PGFplots figure.
 * [awesome-latex-drawing](https://github.com/xinychen/awesome-latex-drawing) ⭐ 2,059 | 🐛 1 | 🌐 TeX | 📅 2025-05-26 - Drawing Bayesian networks, graphical models, and technical frameworks in LaTeX.
-* [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) ⭐ 1,758 | 🐛 264 | 🌐 MATLAB | 📅 2026-05-31 - Converts MATLAB®/Octave figures to TikZ/pgfplots figures.
+* [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) ⭐ 1,759 | 🐛 264 | 🌐 MATLAB | 📅 2026-05-31 - Converts MATLAB®/Octave figures to TikZ/pgfplots figures.
 * [sane\_tikz](https://github.com/negrinho/sane_tikz) ⭐ 430 | 🐛 0 | 🌐 Python | 📅 2020-11-18 - Create TikZ figures with Python.
 * [ktikz](https://github.com/fhackenberger/ktikz) ⭐ 398 | 🐛 15 | 🌐 C++ | 📅 2025-07-28 - Provides a nice user interface for making pictures using TikZ.
 * [itikz](https://github.com/jbn/itikz) ⭐ 63 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2024-04-18 - Cell and line magic for PGF/TikZ-to-SVG rendering in Jupyter notebooks.
@@ -161,4 +161,4 @@ CC-BY-4.0
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
