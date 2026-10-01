@@ -22,7 +22,7 @@ This project contains a curated list of awesome TikZ documentations, libraries a
 
 ### PGF/TikZ
 
-* [SourceForge](https://github.com/pgf-tikz/pgf) ⭐ 1,352 | 🐛 287 | 🌐 TeX | 📅 2026-09-12 - Code, releases, support and bug reports.
+* [SourceForge](https://github.com/pgf-tikz/pgf) ⭐ 1,353 | 🐛 287 | 🌐 TeX | 📅 2026-09-12 - Code, releases, support and bug reports.
 * [CTAN](https://www.ctan.org/pkg/pgf) - Latest version release.
 
 ### PGFPlots
@@ -40,7 +40,7 @@ This project contains a curated list of awesome TikZ documentations, libraries a
 
 ## Gallery
 
-* [MartinThoma/LaTeX-examples](https://github.com/MartinThoma/LaTeX-examples/tree/master/tikz) ⭐ 1,691 | 🐛 5 | 🌐 TeX | 📅 2026-09-28 - Contains about 350 TikZ examples from Martin. Thoma.
+* [MartinThoma/LaTeX-examples](https://github.com/MartinThoma/LaTeX-examples/tree/master/tikz) ⭐ 1,692 | 🐛 5 | 🌐 TeX | 📅 2026-09-28 - Contains about 350 TikZ examples from Martin. Thoma.
 * [PetarV-/TikZ](https://github.com/PetarV-/TikZ) ⭐ 1,421 | 🐛 1 | 🌐 TeX | 📅 2023-05-05 - A collection of publication-ready PGF/TikZ figures by Petar Veličković.
 * [walmes/Tikz](https://github.com/walmes/Tikz) ⭐ 490 | 🐛 0 | 🌐 R | 📅 2025-12-15 - Collection of TikZ art from Prof. Walmes M. Zeviani, contains about 200 TikZ figures, most of which were done to teach statistics.
 * [tikz-network](https://github.com/hackl/tikz-network) ⭐ 364 | 🐛 19 | 🌐 TeX | 📅 2021-01-18 - A tool to visualize complex networks in LaTeX.
@@ -56,7 +56,7 @@ This project contains a curated list of awesome TikZ documentations, libraries a
 
 * [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) ⭐ 24,998 | 🐛 89 | 🌐 TeX | 📅 2023-08-21 - Latex code for making neural networks diagrams
 * [quiver](https://github.com/varkor/quiver) ⭐ 3,626 | 🐛 49 | 🌐 JavaScript | 📅 2026-09-28 - A commutative diagram editor that exports to tikz-cd.
-* [matplotlib2tikz](https://github.com/nschloe/matplotlib2tikz) ⭐ 2,583 | 🐛 136 | 🌐 Python | 📅 2024-08-16 - Convert matplotlib figure and spits out a TikZ/PGFplots figure.
+* [matplotlib2tikz](https://github.com/nschloe/matplotlib2tikz) ⭐ 2,585 | 🐛 136 | 🌐 Python | 📅 2024-08-16 - Convert matplotlib figure and spits out a TikZ/PGFplots figure.
 * [awesome-latex-drawing](https://github.com/xinychen/awesome-latex-drawing) ⭐ 2,059 | 🐛 1 | 🌐 TeX | 📅 2025-05-26 - Drawing Bayesian networks, graphical models, and technical frameworks in LaTeX.
 * [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) ⭐ 1,759 | 🐛 264 | 🌐 MATLAB | 📅 2026-05-31 - Converts MATLAB®/Octave figures to TikZ/pgfplots figures.
 * [sane\_tikz](https://github.com/negrinho/sane_tikz) ⭐ 430 | 🐛 0 | 🌐 Python | 📅 2020-11-18 - Create TikZ figures with Python.
@@ -161,4 +161,4 @@ CC-BY-4.0
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._

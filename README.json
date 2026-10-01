@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "MartinThoma",
             "repo": "LaTeX-examples",
-            "stars": 1691,
+            "stars": 1692,
             "topics": [
               "latex",
               "mathematics",
@@ -265,7 +265,7 @@
             "open_issues": 136,
             "owner": "nschloe",
             "repo": "tikzplotlib",
-            "stars": 2583,
+            "stars": 2585,
             "topics": [
               "latex",
               "matplotlib",
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T02:13:45.471Z",
+    "last_updated": "2026-10-01T02:15:48.874Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TikZ documentations, libraries and resources",
