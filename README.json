@@ -204,10 +204,10 @@
             "language": "TeX",
             "license": "MIT",
             "last_commit": "2023-08-21T17:47:04Z",
-            "open_issues": 89,
+            "open_issues": 87,
             "owner": "HarisIqbal88",
             "repo": "PlotNeuralNet",
-            "stars": 25030,
+            "stars": 25035,
             "topics": [
               "deep-neural-networks",
               "latex"
@@ -231,7 +231,7 @@
             "open_issues": 49,
             "owner": "varkor",
             "repo": "quiver",
-            "stars": 3632,
+            "stars": 3633,
             "topics": [
               "category-theory",
               "commutative",
@@ -292,7 +292,7 @@
             "open_issues": 1,
             "owner": "xinychen",
             "repo": "awesome-latex-drawing",
-            "stars": 2063,
+            "stars": 2065,
             "topics": [
               "latex",
               "machine-learning"
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T01:37:00.587Z",
+    "last_updated": "2026-10-16T01:32:37.931Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TikZ documentations, libraries and resources",
@@ -432,7 +432,7 @@
       "open_issues": 0,
       "owner": "xiaohanyu",
       "repo": "awesome-tikz",
-      "stars": 1814,
+      "stars": 1815,
       "topics": [
         "awesome",
         "awesome-list",
