@@ -207,7 +207,7 @@
             "open_issues": 87,
             "owner": "HarisIqbal88",
             "repo": "PlotNeuralNet",
-            "stars": 25040,
+            "stars": 25039,
             "topics": [
               "deep-neural-networks",
               "latex"
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T01:28:01.421Z",
+    "last_updated": "2026-10-20T01:57:58.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TikZ documentations, libraries and resources",
