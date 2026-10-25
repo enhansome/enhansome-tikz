@@ -152,7 +152,7 @@
             "open_issues": 7,
             "owner": "FriendlyUser",
             "repo": "LatexDiagrams",
-            "stars": 209,
+            "stars": 208,
             "topics": [
               "diagrams",
               "latex",
@@ -207,7 +207,7 @@
             "open_issues": 87,
             "owner": "HarisIqbal88",
             "repo": "PlotNeuralNet",
-            "stars": 25042,
+            "stars": 25046,
             "topics": [
               "deep-neural-networks",
               "latex"
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T01:45:39.701Z",
+    "last_updated": "2026-10-25T01:22:29.205Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TikZ documentations, libraries and resources",
@@ -432,7 +432,7 @@
       "open_issues": 0,
       "owner": "xiaohanyu",
       "repo": "awesome-tikz",
-      "stars": 1817,
+      "stars": 1816,
       "topics": [
         "awesome",
         "awesome-list",

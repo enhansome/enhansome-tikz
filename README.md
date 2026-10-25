@@ -22,7 +22,7 @@ This project contains a curated list of awesome TikZ documentations, libraries a
 
 ### PGF/TikZ
 
-* [SourceForge](https://github.com/pgf-tikz/pgf) ⭐ 1,364 | 🐛 288 | 🌐 TeX | 📅 2026-10-09 - Code, releases, support and bug reports.
+* [SourceForge](https://github.com/pgf-tikz/pgf) ⭐ 1,365 | 🐛 288 | 🌐 TeX | 📅 2026-10-09 - Code, releases, support and bug reports.
 * [CTAN](https://www.ctan.org/pkg/pgf) - Latest version release.
 
 ### PGFPlots
@@ -45,7 +45,7 @@ This project contains a curated list of awesome TikZ documentations, libraries a
 * [walmes/Tikz](https://github.com/walmes/Tikz) ⭐ 490 | 🐛 0 | 🌐 R | 📅 2025-12-15 - Collection of TikZ art from Prof. Walmes M. Zeviani, contains about 200 TikZ figures, most of which were done to teach statistics.
 * [tikz-network](https://github.com/hackl/tikz-network) ⭐ 365 | 🐛 19 | 🌐 TeX | 📅 2021-01-18 - A tool to visualize complex networks in LaTeX.
 * [OpenTikZ](https://github.com/opentikz/opentikz) ⭐ 231 | 🐛 0 | 🌐 TeX | 📅 2026-07-12 - An agent skill, many editable TikZ icons, and many parametric templates for academic diagrams.
-* [LatexDiagrams](https://github.com/FriendlyUser/LatexDiagrams) ⭐ 209 | 🐛 7 | 🌐 TeX | 📅 2024-09-03 - This repo contains many diagrams generated for academic usage, including Algorithms-Data Structures, Artificial Intelligence, BlogDiagrams, DSP, Engineering Software Design, etc.
+* [LatexDiagrams](https://github.com/FriendlyUser/LatexDiagrams) ⭐ 208 | 🐛 7 | 🌐 TeX | 📅 2024-09-03 - This repo contains many diagrams generated for academic usage, including Algorithms-Data Structures, Artificial Intelligence, BlogDiagrams, DSP, Engineering Software Design, etc.
 * [alemelis/tikz\_drawings](https://github.com/alemelis/tikz_drawings) ⭐ 59 | 🐛 0 | 🌐 TeX | 📅 2018-10-04 - Source codes for illustration made in TikZ by Alessandro Melis for various publications.
 * [TeXample](http://www.texample.net/tikz/) - Gallery of wonderful examples made by TikZ.
 * [Nice Scientific Pictures](https://tex.stackexchange.com/questions/158668/nice-scientific-pictures-show-off) - Contains some really nice TikZ examples, together with pictures drawn by other TeX friends.
@@ -54,7 +54,7 @@ This project contains a curated list of awesome TikZ documentations, libraries a
 
 ## Tools
 
-* [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) ⭐ 25,042 | 🐛 87 | 🌐 TeX | 📅 2023-08-21 - Latex code for making neural networks diagrams
+* [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) ⭐ 25,046 | 🐛 87 | 🌐 TeX | 📅 2023-08-21 - Latex code for making neural networks diagrams
 * [quiver](https://github.com/varkor/quiver) ⭐ 3,636 | 🐛 49 | 🌐 JavaScript | 📅 2026-09-28 - A commutative diagram editor that exports to tikz-cd.
 * [matplotlib2tikz](https://github.com/nschloe/matplotlib2tikz) ⭐ 2,587 | 🐛 136 | 🌐 Python | 📅 2024-08-16 - Convert matplotlib figure and spits out a TikZ/PGFplots figure.
 * [awesome-latex-drawing](https://github.com/xinychen/awesome-latex-drawing) ⭐ 2,065 | 🐛 1 | 🌐 TeX | 📅 2025-05-26 - Drawing Bayesian networks, graphical models, and technical frameworks in LaTeX.
@@ -161,4 +161,4 @@ CC-BY-4.0
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
