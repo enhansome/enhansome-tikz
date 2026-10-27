@@ -47,7 +47,7 @@
             "open_issues": 1,
             "owner": "PetarV-",
             "repo": "TikZ",
-            "stars": 1423,
+            "stars": 1424,
             "topics": [
               "graphics",
               "latex",
@@ -74,7 +74,7 @@
             "open_issues": 0,
             "owner": "walmes",
             "repo": "Tikz",
-            "stars": 490,
+            "stars": 491,
             "topics": [
               "gallery",
               "latex",
@@ -152,7 +152,7 @@
             "open_issues": 7,
             "owner": "FriendlyUser",
             "repo": "LatexDiagrams",
-            "stars": 208,
+            "stars": 209,
             "topics": [
               "diagrams",
               "latex",
@@ -207,7 +207,7 @@
             "open_issues": 87,
             "owner": "HarisIqbal88",
             "repo": "PlotNeuralNet",
-            "stars": 25048,
+            "stars": 25051,
             "topics": [
               "deep-neural-networks",
               "latex"
@@ -231,7 +231,7 @@
             "open_issues": 49,
             "owner": "varkor",
             "repo": "quiver",
-            "stars": 3635,
+            "stars": 3634,
             "topics": [
               "category-theory",
               "commutative",
@@ -265,7 +265,7 @@
             "open_issues": 136,
             "owner": "nschloe",
             "repo": "tikzplotlib",
-            "stars": 2587,
+            "stars": 2588,
             "topics": [
               "latex",
               "matplotlib",
@@ -292,7 +292,7 @@
             "open_issues": 1,
             "owner": "xinychen",
             "repo": "awesome-latex-drawing",
-            "stars": 2064,
+            "stars": 2067,
             "topics": [
               "latex",
               "machine-learning"
@@ -344,7 +344,7 @@
             "open_issues": 0,
             "owner": "negrinho",
             "repo": "sane_tikz",
-            "stars": 430,
+            "stars": 432,
             "topics": [
               "diagrams",
               "latex",
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T01:26:33.738Z",
+    "last_updated": "2026-10-27T02:14:43.612Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TikZ documentations, libraries and resources",
@@ -432,7 +432,7 @@
       "open_issues": 0,
       "owner": "xiaohanyu",
       "repo": "awesome-tikz",
-      "stars": 1816,
+      "stars": 1817,
       "topics": [
         "awesome",
         "awesome-list",
