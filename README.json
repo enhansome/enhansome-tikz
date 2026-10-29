@@ -207,7 +207,7 @@
             "open_issues": 87,
             "owner": "HarisIqbal88",
             "repo": "PlotNeuralNet",
-            "stars": 25054,
+            "stars": 25055,
             "topics": [
               "deep-neural-networks",
               "latex"
@@ -231,7 +231,7 @@
             "open_issues": 49,
             "owner": "varkor",
             "repo": "quiver",
-            "stars": 3633,
+            "stars": 3634,
             "topics": [
               "category-theory",
               "commutative",
@@ -316,7 +316,7 @@
             "open_issues": 264,
             "owner": "matlab2tikz",
             "repo": "matlab2tikz",
-            "stars": 1765,
+            "stars": 1764,
             "topics": [
               "latex",
               "matlab",
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T02:28:54.182Z",
+    "last_updated": "2026-10-29T02:35:30.630Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TikZ documentations, libraries and resources",
