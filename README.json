@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "MartinThoma",
             "repo": "LaTeX-examples",
-            "stars": 1692,
+            "stars": 1693,
             "topics": [
               "latex",
               "mathematics",
@@ -207,7 +207,7 @@
             "open_issues": 87,
             "owner": "HarisIqbal88",
             "repo": "PlotNeuralNet",
-            "stars": 25077,
+            "stars": 25078,
             "topics": [
               "deep-neural-networks",
               "latex"
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T03:35:18.628Z",
+    "last_updated": "2026-11-06T03:30:05.000Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TikZ documentations, libraries and resources",
