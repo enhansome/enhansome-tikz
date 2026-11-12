@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "MartinThoma",
             "repo": "LaTeX-examples",
-            "stars": 1693,
+            "stars": 1694,
             "topics": [
               "latex",
               "mathematics",
@@ -121,7 +121,7 @@
             "open_issues": 0,
             "owner": "opentikz",
             "repo": "opentikz",
-            "stars": 237,
+            "stars": 238,
             "topics": [
               "agents",
               "ai",
@@ -207,7 +207,7 @@
             "open_issues": 87,
             "owner": "HarisIqbal88",
             "repo": "PlotNeuralNet",
-            "stars": 25084,
+            "stars": 25087,
             "topics": [
               "deep-neural-networks",
               "latex"
@@ -228,7 +228,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-31T20:17:22Z",
-            "open_issues": 49,
+            "open_issues": 50,
             "owner": "varkor",
             "repo": "quiver",
             "stars": 3639,
@@ -265,7 +265,7 @@
             "open_issues": 136,
             "owner": "nschloe",
             "repo": "tikzplotlib",
-            "stars": 2587,
+            "stars": 2588,
             "topics": [
               "latex",
               "matplotlib",
@@ -292,7 +292,7 @@
             "open_issues": 1,
             "owner": "xinychen",
             "repo": "awesome-latex-drawing",
-            "stars": 2070,
+            "stars": 2071,
             "topics": [
               "latex",
               "machine-learning"
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T02:53:29.561Z",
+    "last_updated": "2026-11-12T03:58:22.304Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TikZ documentations, libraries and resources",
