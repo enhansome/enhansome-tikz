@@ -22,7 +22,7 @@ This project contains a curated list of awesome TikZ documentations, libraries a
 
 ### PGF/TikZ
 
-* [SourceForge](https://github.com/pgf-tikz/pgf) ⭐ 1,373 | 🐛 290 | 🌐 TeX | 📅 2026-11-09 - Code, releases, support and bug reports.
+* [SourceForge](https://github.com/pgf-tikz/pgf) ⭐ 1,374 | 🐛 290 | 🌐 TeX | 📅 2026-11-09 - Code, releases, support and bug reports.
 * [CTAN](https://www.ctan.org/pkg/pgf) - Latest version release.
 
 ### PGFPlots
@@ -54,7 +54,7 @@ This project contains a curated list of awesome TikZ documentations, libraries a
 
 ## Tools
 
-* [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) ⭐ 25,091 | 🐛 87 | 🌐 TeX | 📅 2023-08-21 - Latex code for making neural networks diagrams
+* [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) ⭐ 25,093 | 🐛 87 | 🌐 TeX | 📅 2023-08-21 - Latex code for making neural networks diagrams
 * [quiver](https://github.com/varkor/quiver) ⭐ 3,639 | 🐛 51 | 🌐 JavaScript | 📅 2026-10-31 - A commutative diagram editor that exports to tikz-cd.
 * [matplotlib2tikz](https://github.com/nschloe/matplotlib2tikz) ⭐ 2,588 | 🐛 136 | 🌐 Python | 📅 2024-08-16 - Convert matplotlib figure and spits out a TikZ/PGFplots figure.
 * [awesome-latex-drawing](https://github.com/xinychen/awesome-latex-drawing) ⭐ 2,071 | 🐛 1 | 🌐 TeX | 📅 2025-05-26 - Drawing Bayesian networks, graphical models, and technical frameworks in LaTeX.
@@ -161,4 +161,4 @@ CC-BY-4.0
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
