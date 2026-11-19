@@ -207,7 +207,7 @@
             "open_issues": 87,
             "owner": "HarisIqbal88",
             "repo": "PlotNeuralNet",
-            "stars": 25099,
+            "stars": 25101,
             "topics": [
               "deep-neural-networks",
               "latex"
@@ -228,7 +228,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-31T20:17:22Z",
-            "open_issues": 51,
+            "open_issues": 52,
             "owner": "varkor",
             "repo": "quiver",
             "stars": 3642,
@@ -292,7 +292,7 @@
             "open_issues": 1,
             "owner": "xinychen",
             "repo": "awesome-latex-drawing",
-            "stars": 2072,
+            "stars": 2071,
             "topics": [
               "latex",
               "machine-learning"
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T04:37:00.881Z",
+    "last_updated": "2026-11-19T04:19:18.036Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TikZ documentations, libraries and resources",
@@ -432,7 +432,7 @@
       "open_issues": 0,
       "owner": "xiaohanyu",
       "repo": "awesome-tikz",
-      "stars": 1820,
+      "stars": 1821,
       "topics": [
         "awesome",
         "awesome-list",
