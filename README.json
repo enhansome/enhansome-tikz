@@ -47,7 +47,7 @@
             "open_issues": 1,
             "owner": "PetarV-",
             "repo": "TikZ",
-            "stars": 1426,
+            "stars": 1427,
             "topics": [
               "graphics",
               "latex",
@@ -100,7 +100,7 @@
             "open_issues": 19,
             "owner": "hackl",
             "repo": "tikz-network",
-            "stars": 365,
+            "stars": 366,
             "topics": []
           },
           "first_seen": "2026-08-28T06:59:05.764Z"
@@ -121,7 +121,7 @@
             "open_issues": 0,
             "owner": "opentikz",
             "repo": "opentikz",
-            "stars": 245,
+            "stars": 246,
             "topics": [
               "agents",
               "ai",
@@ -207,7 +207,7 @@
             "open_issues": 87,
             "owner": "HarisIqbal88",
             "repo": "PlotNeuralNet",
-            "stars": 25101,
+            "stars": 25102,
             "topics": [
               "deep-neural-networks",
               "latex"
@@ -231,7 +231,7 @@
             "open_issues": 52,
             "owner": "varkor",
             "repo": "quiver",
-            "stars": 3642,
+            "stars": 3641,
             "topics": [
               "category-theory",
               "commutative",
@@ -292,7 +292,7 @@
             "open_issues": 1,
             "owner": "xinychen",
             "repo": "awesome-latex-drawing",
-            "stars": 2071,
+            "stars": 2070,
             "topics": [
               "latex",
               "machine-learning"
@@ -344,7 +344,7 @@
             "open_issues": 0,
             "owner": "negrinho",
             "repo": "sane_tikz",
-            "stars": 433,
+            "stars": 432,
             "topics": [
               "diagrams",
               "latex",
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T04:19:18.036Z",
+    "last_updated": "2026-11-20T04:07:15.565Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TikZ documentations, libraries and resources",
