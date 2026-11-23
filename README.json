@@ -121,7 +121,7 @@
             "open_issues": 0,
             "owner": "opentikz",
             "repo": "opentikz",
-            "stars": 246,
+            "stars": 247,
             "topics": [
               "agents",
               "ai",
@@ -152,7 +152,7 @@
             "open_issues": 7,
             "owner": "FriendlyUser",
             "repo": "LatexDiagrams",
-            "stars": 209,
+            "stars": 210,
             "topics": [
               "diagrams",
               "latex",
@@ -227,8 +227,8 @@
             "id": 163348528,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-31T20:17:22Z",
-            "open_issues": 52,
+            "last_commit": "2026-11-22T18:29:10Z",
+            "open_issues": 53,
             "owner": "varkor",
             "repo": "quiver",
             "stars": 3641,
@@ -292,7 +292,7 @@
             "open_issues": 1,
             "owner": "xinychen",
             "repo": "awesome-latex-drawing",
-            "stars": 2070,
+            "stars": 2069,
             "topics": [
               "latex",
               "machine-learning"
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T03:18:50.801Z",
+    "last_updated": "2026-11-23T03:52:02.433Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TikZ documentations, libraries and resources",
