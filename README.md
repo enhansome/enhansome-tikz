@@ -54,7 +54,7 @@ This project contains a curated list of awesome TikZ documentations, libraries a
 
 ## Tools
 
-* [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) ⭐ 25,115 | 🐛 87 | 🌐 TeX | 📅 2023-08-21 - Latex code for making neural networks diagrams
+* [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) ⭐ 25,119 | 🐛 87 | 🌐 TeX | 📅 2023-08-21 - Latex code for making neural networks diagrams
 * [quiver](https://github.com/varkor/quiver) ⭐ 3,641 | 🐛 53 | 🌐 JavaScript | 📅 2026-11-22 - A commutative diagram editor that exports to tikz-cd.
 * [matplotlib2tikz](https://github.com/nschloe/matplotlib2tikz) ⭐ 2,587 | 🐛 136 | 🌐 Python | 📅 2024-08-16 - Convert matplotlib figure and spits out a TikZ/PGFplots figure.
 * [awesome-latex-drawing](https://github.com/xinychen/awesome-latex-drawing) ⭐ 2,069 | 🐛 1 | 🌐 TeX | 📅 2025-05-26 - Drawing Bayesian networks, graphical models, and technical frameworks in LaTeX.
@@ -161,4 +161,4 @@ CC-BY-4.0
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
