@@ -56,7 +56,7 @@ This project contains a curated list of awesome TikZ documentations, libraries a
 
 * [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) ⭐ 25,119 | 🐛 87 | 🌐 TeX | 📅 2023-08-21 - Latex code for making neural networks diagrams
 * [quiver](https://github.com/varkor/quiver) ⭐ 3,641 | 🐛 53 | 🌐 JavaScript | 📅 2026-11-22 - A commutative diagram editor that exports to tikz-cd.
-* [matplotlib2tikz](https://github.com/nschloe/matplotlib2tikz) ⭐ 2,587 | 🐛 136 | 🌐 Python | 📅 2024-08-16 - Convert matplotlib figure and spits out a TikZ/PGFplots figure.
+* [matplotlib2tikz](https://github.com/nschloe/matplotlib2tikz) ⭐ 2,588 | 🐛 136 | 🌐 Python | 📅 2024-08-16 - Convert matplotlib figure and spits out a TikZ/PGFplots figure.
 * [awesome-latex-drawing](https://github.com/xinychen/awesome-latex-drawing) ⭐ 2,069 | 🐛 1 | 🌐 TeX | 📅 2025-05-26 - Drawing Bayesian networks, graphical models, and technical frameworks in LaTeX.
 * [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) ⭐ 1,770 | 🐛 264 | 🌐 MATLAB | 📅 2026-05-31 - Converts MATLAB®/Octave figures to TikZ/pgfplots figures.
 * [sane\_tikz](https://github.com/negrinho/sane_tikz) ⭐ 432 | 🐛 0 | 🌐 Python | 📅 2020-11-18 - Create TikZ figures with Python.
@@ -161,4 +161,4 @@ CC-BY-4.0
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._

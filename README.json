@@ -265,7 +265,7 @@
             "open_issues": 136,
             "owner": "nschloe",
             "repo": "tikzplotlib",
-            "stars": 2587,
+            "stars": 2588,
             "topics": [
               "latex",
               "matplotlib",
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T05:15:14.827Z",
+    "last_updated": "2026-11-27T05:13:05.275Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TikZ documentations, libraries and resources",
